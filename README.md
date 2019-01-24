@@ -1,2 +1,1 @@
-# device-driver
-Some practices in c 
+# Some practices in c lang 
