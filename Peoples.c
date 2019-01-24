@@ -129,6 +129,5 @@ int main(void)
 	free(mony.name);
 	
 	free(alex.friendship);
-//	free(jeff.friendship);
 //	free(mony.friendship);
 }
